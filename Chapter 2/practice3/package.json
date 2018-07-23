@@ -1,0 +1,8 @@
+{
+    "name": "hello-express",
+    "author": "ammar",
+    "private": true,
+    "dependencies": {
+        "express": "^4.16.3"
+    }
+}

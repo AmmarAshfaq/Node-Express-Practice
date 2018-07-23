@@ -1,0 +1,9 @@
+{
+    "name": "Practice1",
+    "author": "ammar",
+    "private": true,
+    "version": "0.2.0",
+    "dependencies": {
+        "mustache": "^2.3.0"
+    }
+}
